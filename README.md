@@ -1,7 +1,3 @@
-## Goodcabs_performance_analysis
-
-**## Transport Performance Analysis**  
-
 ###  Project Overview  
 This project analyzes the performance of a cab service operating in multiple tier-2 cities. The dataset contains information about City, trips, passengers, targets, fare_amount, distance_travelled etc. The dataset was provided by codebasics as part of their project challenge #13.
 
